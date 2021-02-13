@@ -1,3 +1,8 @@
-Apple, a type of fruit
-Bat, animal with wings
-Cat, feline animal with 4 legs
+Anterior, In-Front of
+Posterior, In back of
+Superior, Above
+Inferior, Below
+Cranial, Toward the head
+Caudal, Toward the tail
+Ventral, Belly Side
+Dorsal, Back
