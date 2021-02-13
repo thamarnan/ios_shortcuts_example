@@ -1,3 +1,6 @@
+Apple, Round fruit in rose family
+Bat, nocturnal mammal with wings
+Cat, small domesticated mammal with fur
 Anterior, In-Front of
 Posterior, In back of
 Superior, Above
